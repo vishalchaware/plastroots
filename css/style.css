@@ -1,0 +1,34 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 p address {
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.banner-img {
+    background-image: url(../img/banner.jpg);
+    background-size: cover;
+    width: 100%;
+}
+
+.navbarGap {
+    margin-top: 60px;
+}
+
+.px118 {
+    padding-left: 118px;
+}
+
+.brandColor {
+    color: #1d890a !important;
+}
+
+.text-gray {
+    color: #a09c9c !important;
+}
+
+address {
+    font-size: small;
+}
